@@ -4,7 +4,7 @@
     <short-name>Tag Lib Demo</short-name>
     <uri>http://doneyTag.com/tags</uri>
     <tag>
-        <name>Hello</name>
+        <name>playerCard</name>
         <tag-class>com.doneyTag.PlayerCard</tag-class>
         <body-content>empty</body-content>
         <attribute>
