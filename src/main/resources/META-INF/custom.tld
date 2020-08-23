@@ -14,4 +14,21 @@
             <rtexprvalue>true</rtexprvalue>
         </attribute>
     </tag>
+    <tag>
+        <name>stateSelect</name>
+        <tag-class>com.doneyTag.StateSelect</tag-class>
+        <body-content>empty</body-content>
+        <attribute>
+            <name>selectId</name>
+            <required>true</required>
+            <type>java.lang.String</type>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
+        <attribute>
+            <name>divClass</name>
+            <required>true</required>
+            <type>java.lang.String</type>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
+    </tag>
 </taglib>
