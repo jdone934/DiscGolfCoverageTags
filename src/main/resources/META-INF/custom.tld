@@ -13,6 +13,12 @@
             <type>com.doney.entity.Player</type>
             <rtexprvalue>true</rtexprvalue>
         </attribute>
+        <attribute>
+            <name>user</name>
+            <required>false</required>
+            <type>com.doney.entity.User</type>
+            <rtexprvalue>true</rtexprvalue>
+        </attribute>
     </tag>
     <tag>
         <name>stateSelect</name>
